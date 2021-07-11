@@ -1,0 +1,14 @@
+{
+  "name": "th-twitter-caller",
+  "version": "1.0.0",
+  "description": "TH Twitter Caller",
+  "main": "index.js",
+  "scripts": {
+    "start": "node www"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0",
+    "https": "^1.0.0"
+  }
+}
